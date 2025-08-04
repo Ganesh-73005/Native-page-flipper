@@ -2,8 +2,7 @@
 
 This project is a React Native application built with Expo, showcasing a web-based book-flipper component. The flipper displays interactive content using a `WebView`, making it a versatile and portable solution for rich, animated views within a native app.
 
-![App Screenshot/GIF](https://placehold.co/600x400/0e1a26/ffffff?text=App+Preview)
-*(Replace this with a screenshot or GIF of your running app)*
+
 
 ## Table of Contents
 
