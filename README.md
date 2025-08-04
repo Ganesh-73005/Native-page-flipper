@@ -76,10 +76,11 @@ Once the dependencies are installed, you can run the app in your development env
 ## Project Structure
 
 Here is an overview of the key files and directories in the project:
-
+```tree
+   
 
 .
-├── components/          # Reusable React components
+├── components/  # Reusable React components
 │   ├── BookFlipperWebView.tsx # The main WebView flipper component
 │   └── flipperContent.json # JSON file containing the HTML for the WebView
 │   └── PdfFlipper.tsx  # pdf flipper component
@@ -87,7 +88,7 @@ Here is an overview of the key files and directories in the project:
 ├── package.json         # Project metadata and dependencies
 └── README.md            # This file
 
-
+ ```
 ## Key Technologies
 
 - **React Native**: A framework for building native apps using React.
