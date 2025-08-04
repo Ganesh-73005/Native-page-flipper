@@ -39,11 +39,11 @@ Follow these steps to get your development environment set up:
 2.  **Install Dependencies**
     Using npm:
     ```bash
-    npm install
+    npm install --legacy-peer-deps
     ```
     Or using yarn:
     ```bash
-    yarn install
+    yarn install --force
     ```
     This command will install all the necessary packages defined in `package.json`, including React, React Native, and Expo.
 
